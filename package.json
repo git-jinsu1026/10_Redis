@@ -1,0 +1,23 @@
+{
+  "name": "10_Redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-jinsu1026/10_Redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-jinsu1026/10_Redis/issues"
+  },
+  "homepage": "https://github.com/git-jinsu1026/10_Redis#readme",
+  "dependencies": {
+    "redis": "^3.0.2"
+  }
+}
